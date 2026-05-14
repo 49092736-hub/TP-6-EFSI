@@ -11,6 +11,6 @@ function SearchBar() {
     setPeliculas(responsepeliculas.data.Search);
   }
 
-  return (
+
 
 
